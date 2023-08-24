@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/blue-futuristic-networking-technology_53876-97395.jpg?w=740&t=st=1692794409~exp=1692795009~hmac=97226f1d22fc821dd1e1b99f4fbd1cc4e406872315fe9e3bf834314c596ac75b)](https://github.com/VaibhavDhanani)
+
 <h1 align="center">Hi 👋, I'm Vaibhav Dhanani</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r8om5iwwtxahdb7x8mn0d3totljo83pvdw1d8yn1&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
