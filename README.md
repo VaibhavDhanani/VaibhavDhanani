@@ -4,7 +4,6 @@
 <img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r8om5iwwtxahdb7x8mn0d3totljo83pvdw1d8yn1&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdhanani&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdhanani" /> </p>
 
-- 🔭 I’m currently working on **Javascript Project**
 
 - 📫 How to reach me ** vaibhavdhanani2711@gmail.com**
 
