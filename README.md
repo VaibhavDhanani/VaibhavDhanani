@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdhanani&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdhanani" /> </p>
 
-- 🔭 I’m currently working on **a Netflix-like streaming website & a GenAI text-to-image project**
+- 🔭 I’m currently working on **Learning Management System & a GenAI text-to-image project**
 - 🌱 I’m learning **GenAI, LLM fine-tuning, and advanced Next.js**
-- 🎥 I run a YouTube channel on **Sci-Fi content**
 - 🚀 Exploring **MERN Stack, GraphQL, WebRTC, WebSockets, and AI/ML**
 - 📫 How to reach me **vaibhavdhanani2711@gmail.com**
 - ⚡ Fun fact **"Problems are Opportunities."**
